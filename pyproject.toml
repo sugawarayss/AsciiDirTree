@@ -6,6 +6,7 @@ authors = ["yss sugawara <waku.pdxppxzy@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+click = "^*"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
